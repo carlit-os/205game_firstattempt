@@ -19,7 +19,7 @@ set MASMPATH=C:\masm32\bin
 :: those libraries normally live in C:\masm32\lib on windows
 :: if using wine on Mac, same trick as above.
 
-set MASMLIBPATH=C:\masm32\lib
+set MASMLIBPATH=CC:
 
 :: make sure you add the path to includes: windows.inc, user32.inc, winmm.inc
 :: those includes normally live in C:\masm32\include on windows
