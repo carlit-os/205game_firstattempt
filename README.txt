@@ -1,4 +1,6 @@
 Camera Shy by Andy Moran, Winter 2020, COMP_ENG205
+
+If you'd just like to play, open the exe otherwise feel free to check out the .asm files
 ------------------------------------------------------------------------------------
 To play the game, move the kid using the WASD keys for directional movement
 
